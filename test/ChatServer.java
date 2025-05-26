@@ -7,10 +7,6 @@
  *
  * @author RC_Student_lab
  */
-class Usernameo {
-
-    static Object getText() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+class ChatServer {
     
 }
